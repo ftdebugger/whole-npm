@@ -1,7 +1,7 @@
 Whole npm
 =========
 
-Install whole npm packages. 
+Install all npm packages. 
 
 With this package all dependencies are available immediately! It is very convinient to install whole-npm instead of all real dependencies every time!
 
