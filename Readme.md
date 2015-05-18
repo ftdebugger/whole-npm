@@ -7,6 +7,6 @@ With this package all dependencies are available immediately! It is very convini
 
 It is easy as execute
 
-    npm install whole-npm
+    npm install ftdebugger/whole-npm
 
 Try it right now!
