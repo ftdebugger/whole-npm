@@ -1,6 +1,6 @@
 {
   "name": "whole-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "make": "make.js"
   },
